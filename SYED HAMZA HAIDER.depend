@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1580412146 source:h:\assignments\c++\theory task\project\syed hamza haider\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+
+1580412216 source:h:\assignments\1st semester\c++\theory task\project\syed hamza haider\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+

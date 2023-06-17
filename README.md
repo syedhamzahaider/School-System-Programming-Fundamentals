@@ -38,11 +38,7 @@ To run the school system project on your local machine, follow these steps:
    ```
 
 5. Follow the on-screen instructions to interact with the program.
-
-## Contribution
-
-Contributions to the school system project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue in the project repository.
-
+6. 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
@@ -51,4 +47,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 - This project was created as part of a programming fundamentals course.
 - ASCII art courtesy of [ASCII Art Archive](https://www.asciiart.eu/).
-- Special thanks to the instructor and fellow students for their guidance and support throughout the project.
+- Special thanks to the instructor for their guidance and support throughout the project.
